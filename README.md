@@ -34,7 +34,7 @@ __Core Curriculum Projects__
 - (2010) Kin Sai Wa (Food community on Web)
 - (2010) Kid Mind Thought Game (Board Puzzle Game on PC)
 
-__Traning__
+__Training__
 
 - (2013) iOS Developer by Aj. Rawitatt Pulum; Emphasizing on Design Pattern, Objective-C, iOS development
 
