@@ -7,17 +7,17 @@ __Contact Details__
 - __Address__: 75/44 Sakon Nakhon - Kalasin Rd. That Choeng Chum, Meaung, Sakon Nakhon 47000 Thailand
 
 __Working Experience__
-- (2017-Now) Sale Manager at __Chinbancha Part., Ltd.__ (~50,000 THB/month)
+- (2017-Now) Sale Manager at __Chinbancha Part., Ltd.__
 	- Family business 
 	- Improving marketing and sale with social network
 	- Developing software to manage employee in corporate
 		- Payroll system
 		- Customer relationship management
 		- Employee data management on LINE Chatbot 
-- (2014-2017) Senior iOS Developer at __Peakable Co., Ltd.__ (30,000 THB/month)
+- (2014-2017) Senior iOS Developer at __Peakable Co., Ltd.__
 	- Affiliated with Fire One One Co.,Ltd
 	- Developing sale kit for Life insurance agent
-- (2012-2013) Senior iOS Developer at __Fire One One Co., Ltd.__ (25,000 THB/month)
+- (2012-2013) Senior iOS Developer at __Fire One One Co., Ltd.__
   - Meeting with clients to obtain understanding on their workflows and nature of business conduct. This was in order to both fulfill the client's requirements and enhance the overall efficiency of their operational procedures. Client industries in which I mostly engaged with includes:
 	   - Property Management Systems
 	   - Life Insurance
